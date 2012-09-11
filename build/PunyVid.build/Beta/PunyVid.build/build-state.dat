@@ -1,0 +1,645 @@
+TPunyVid
+v7
+r0
+t309509192.664138
+cCheck dependencies
+cProcessInfoPlistFile /Users/sosumeh/transcoderredux/PunyVid/build/Beta/PunyVid.app/Contents/Info.plist Info.plist
+cOSACompile build/Beta/PunyVid.app/Contents/Resources/Scripts/openfile.scpt openfile.applescript
+cOSACompile build/Beta/PunyVid.app/Contents/Resources/Scripts/saveas.scpt saveas.applescript
+cOSACompile build/Beta/PunyVid.app/Contents/Resources/Scripts/tabledrop.scpt tabledrop.applescript
+cOSACompile build/Beta/PunyVid.app/Contents/Resources/Scripts/doitmulti.scpt doitmulti.applescript
+cOSACompile build/Beta/PunyVid.app/Contents/Resources/Scripts/advanceder.scpt advanceder.applescript
+cOSACompile build/Beta/PunyVid.app/Contents/Resources/Scripts/cancel.scpt cancel.applescript
+cOSACompile build/Beta/PunyVid.app/Contents/Resources/Scripts/clearall.scpt clearall.applescript
+cOSACompile build/Beta/PunyVid.app/Contents/Resources/Scripts/minus.scpt minus.applescript
+cStripNIB /Users/sosumeh/transcoderredux/PunyVid/English.lproj/MainMenu.nib
+cCopyStringsFile /Users/sosumeh/transcoderredux/PunyVid/build/Beta/PunyVid.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+cCpResource build/Beta/PunyVid.app/Contents/Resources/ffmpeg ffmpeg
+cCpResource build/Beta/PunyVid.app/Contents/Resources/durfinder durfinder
+cCpResource build/Beta/PunyVid.app/Contents/Resources/starterror starterror
+cCpResource build/Beta/PunyVid.app/Contents/Resources/fpsfinder fpsfinder
+cCpResource build/Beta/PunyVid.app/Contents/Resources/remainer remainer
+cCpResource build/Beta/PunyVid.app/Contents/Resources/ratiofinder ratiofinder
+cCpResource build/Beta/PunyVid.app/Contents/Resources/movtoy4m movtoy4m
+cCpResource build/Beta/PunyVid.app/Contents/Resources/movinfo movinfo
+cCpResource build/Beta/PunyVid.app/Contents/Resources/mpgtx mpgtx
+cCopyStringsFile /Users/sosumeh/transcoderredux/PunyVid/build/Beta/PunyVid.app/Contents/Resources/English.lproj/Localizable.strings English.lproj/Localizable.strings
+cCpResource build/Beta/PunyVid.app/Contents/Resources/movtowav movtowav
+cCpResource build/Beta/PunyVid.app/Contents/Resources/Credits.rtfd Credits.rtfd
+cCpResource build/Beta/PunyVid.app/Contents/Resources/COPYING.txt COPYING.txt
+cCpResource build/Beta/PunyVid.app/Contents/Resources/movenc-r6213.diff movenc-r6213.diff
+cCpResource build/Beta/PunyVid.app/Contents/Resources/punyvid.icns punyvid.icns
+cCpResource build/Beta/PunyVid.app/Contents/Resources/PunyVidBETAVersion.icns PunyVidBETAVersion.icns
+cCompileC build/PunyVid.build/Beta/PunyVid.build/Objects-normal/i386/main.o /Users/sosumeh/transcoderredux/PunyVid/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/sosumeh/transcoderredux/PunyVid/build/PunyVid.build/Beta/PunyVid.build/Objects-normal/i386/PunyVid normal i386
+cCompileC build/PunyVid.build/Beta/PunyVid.build/Objects-normal/ppc/main.o /Users/sosumeh/transcoderredux/PunyVid/main.m normal ppc objective-c com.apple.compilers.gcc.4_2
+cLd /Users/sosumeh/transcoderredux/PunyVid/build/PunyVid.build/Beta/PunyVid.build/Objects-normal/ppc/PunyVid normal ppc
+cCreateUniversalBinary /Users/sosumeh/transcoderredux/PunyVid/build/Beta/PunyVid.app/Contents/MacOS/PunyVid normal "i386 ppc"
+
+N/Developer/SDKs/MacOSX10.4u.sdk
+c000000004AC5F97600000000000000EE
+t1254488438
+s238
+
+N/Developer/SDKs/MacOSX10.5.sdk
+c000000004C445C5F00000000000000EE
+t1279548511
+s238
+
+N/System/Library/Frameworks/AppleScriptKit.framework/AppleScriptKit
+c000000004A1F2E5D00000000001BBC30
+t1243557469
+s1817648
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004A1F2D63000000000000A5E0
+t1243557219
+s42464
+
+N/Users/sosumeh/transcoderredux/PunyVid/COPYING.txt
+c000000004C3687930000000000004648
+t1278642067
+s17992
+
+N/Users/sosumeh/transcoderredux/PunyVid/Credits.rtfd
+c000000004CC27CD900000000000000CC
+t1287814361
+s204
+
+N/Users/sosumeh/transcoderredux/PunyVid/English.lproj/InfoPlist.strings
+c000000004C4431BD0000000000000110
+t1279537597
+s272
+
+N/Users/sosumeh/transcoderredux/PunyVid/English.lproj/Localizable.strings
+c000000004C36878C000000000000084B
+t1278642060
+s2123
+
+N/Users/sosumeh/transcoderredux/PunyVid/English.lproj/MainMenu.nib
+c000000004CC280230000000000000088
+t1287815203
+s136
+
+N/Users/sosumeh/transcoderredux/PunyVid/PunyVidBETAVersion.icns
+c000000004C4196600000000000025DB0
+t1279366752
+s155056
+
+N/Users/sosumeh/transcoderredux/PunyVid/advanceder.applescript
+c000000004C41974A000000000000010F
+t1279366986
+s271
+
+N/Users/sosumeh/transcoderredux/PunyVid/build/Beta/PunyVid.app
+t1287815116
+s102
+
+N/Users/sosumeh/transcoderredux/PunyVid/build/Beta/PunyVid.app/Contents/Info.plist
+t1287814301
+s1320
+
+N/Users/sosumeh/transcoderredux/PunyVid/build/Beta/PunyVid.app/Contents/MacOS/PunyVid
+t1287816392
+s39176
+
+N/Users/sosumeh/transcoderredux/PunyVid/build/Beta/PunyVid.app/Contents/PkgInfo
+t1287814301
+s8
+
+N/Users/sosumeh/transcoderredux/PunyVid/build/Beta/PunyVid.app/Contents/Resources/COPYING.txt
+t1287814050
+s17992
+
+N/Users/sosumeh/transcoderredux/PunyVid/build/Beta/PunyVid.app/Contents/Resources/Credits.rtfd
+t1287814361
+s204
+
+N/Users/sosumeh/transcoderredux/PunyVid/build/Beta/PunyVid.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1287814049
+s272
+
+N/Users/sosumeh/transcoderredux/PunyVid/build/Beta/PunyVid.app/Contents/Resources/English.lproj/Localizable.strings
+t1287814049
+s4248
+
+N/Users/sosumeh/transcoderredux/PunyVid/build/Beta/PunyVid.app/Contents/Resources/English.lproj/MainMenu.nib
+t1287816072
+s76100
+
+N/Users/sosumeh/transcoderredux/PunyVid/build/Beta/PunyVid.app/Contents/Resources/PunyVidBETAVersion.icns
+t1287814050
+s155056
+
+N/Users/sosumeh/transcoderredux/PunyVid/build/Beta/PunyVid.app/Contents/Resources/Scripts/advanceder.scpt
+t1279537648
+s1942
+
+N/Users/sosumeh/transcoderredux/PunyVid/build/Beta/PunyVid.app/Contents/Resources/Scripts/cancel.scpt
+t1279537648
+s1378
+
+N/Users/sosumeh/transcoderredux/PunyVid/build/Beta/PunyVid.app/Contents/Resources/Scripts/clearall.scpt
+t1279537648
+s3152
+
+N/Users/sosumeh/transcoderredux/PunyVid/build/Beta/PunyVid.app/Contents/Resources/Scripts/doitmulti.scpt
+t2
+s0
+
+N/Users/sosumeh/transcoderredux/PunyVid/build/Beta/PunyVid.app/Contents/Resources/Scripts/minus.scpt
+t1279537648
+s3660
+
+N/Users/sosumeh/transcoderredux/PunyVid/build/Beta/PunyVid.app/Contents/Resources/Scripts/openfile.scpt
+t1279537647
+s15186
+
+N/Users/sosumeh/transcoderredux/PunyVid/build/Beta/PunyVid.app/Contents/Resources/Scripts/saveas.scpt
+t1279537647
+s2232
+
+N/Users/sosumeh/transcoderredux/PunyVid/build/Beta/PunyVid.app/Contents/Resources/Scripts/tabledrop.scpt
+t1279537648
+s17066
+
+N/Users/sosumeh/transcoderredux/PunyVid/build/Beta/PunyVid.app/Contents/Resources/durfinder
+t1287814049
+s710
+
+N/Users/sosumeh/transcoderredux/PunyVid/build/Beta/PunyVid.app/Contents/Resources/ffmpeg
+t1287814050
+s9822216
+
+N/Users/sosumeh/transcoderredux/PunyVid/build/Beta/PunyVid.app/Contents/Resources/fpsfinder
+t1287814049
+s1378
+
+N/Users/sosumeh/transcoderredux/PunyVid/build/Beta/PunyVid.app/Contents/Resources/movenc-r6213.diff
+t1287814050
+s1789
+
+N/Users/sosumeh/transcoderredux/PunyVid/build/Beta/PunyVid.app/Contents/Resources/movinfo
+t1287814049
+s50800
+
+N/Users/sosumeh/transcoderredux/PunyVid/build/Beta/PunyVid.app/Contents/Resources/movtowav
+t1287814050
+s51240
+
+N/Users/sosumeh/transcoderredux/PunyVid/build/Beta/PunyVid.app/Contents/Resources/movtoy4m
+t1287814049
+s66556
+
+N/Users/sosumeh/transcoderredux/PunyVid/build/Beta/PunyVid.app/Contents/Resources/mpgtx
+t1287814049
+s281980
+
+N/Users/sosumeh/transcoderredux/PunyVid/build/Beta/PunyVid.app/Contents/Resources/punyvid.icns
+t1287814050
+s152827
+
+N/Users/sosumeh/transcoderredux/PunyVid/build/Beta/PunyVid.app/Contents/Resources/ratiofinder
+t1287814049
+s4495
+
+N/Users/sosumeh/transcoderredux/PunyVid/build/Beta/PunyVid.app/Contents/Resources/remainer
+t1287814049
+s1112
+
+N/Users/sosumeh/transcoderredux/PunyVid/build/Beta/PunyVid.app/Contents/Resources/starterror
+t1287814049
+s1348
+
+N/Users/sosumeh/transcoderredux/PunyVid/build/PunyVid.build/Beta/PunyVid.build/Objects-normal/i386/PunyVid
+t1287814050
+s17668
+
+N/Users/sosumeh/transcoderredux/PunyVid/build/PunyVid.build/Beta/PunyVid.build/Objects-normal/i386/PunyVid.LinkFileList
+c000000004C4431EF0000000000000069
+t1279537647
+s105
+
+N/Users/sosumeh/transcoderredux/PunyVid/build/PunyVid.build/Beta/PunyVid.build/Objects-normal/i386/main.o
+t1287814050
+s3508
+
+N/Users/sosumeh/transcoderredux/PunyVid/build/PunyVid.build/Beta/PunyVid.build/Objects-normal/ppc/PunyVid
+t1287814050
+s14600
+
+N/Users/sosumeh/transcoderredux/PunyVid/build/PunyVid.build/Beta/PunyVid.build/Objects-normal/ppc/PunyVid.LinkFileList
+c000000004C4431EF0000000000000068
+t1279537647
+s104
+
+N/Users/sosumeh/transcoderredux/PunyVid/build/PunyVid.build/Beta/PunyVid.build/Objects-normal/ppc/main.o
+t1287814050
+s3824
+
+N/Users/sosumeh/transcoderredux/PunyVid/build/PunyVid.build/Beta/PunyVid.build/Objects-normal/x86_64/PunyVid
+t2
+s0
+
+N/Users/sosumeh/transcoderredux/PunyVid/build/PunyVid.build/Beta/PunyVid.build/Objects-normal/x86_64/PunyVid.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/sosumeh/transcoderredux/PunyVid/build/PunyVid.build/Beta/PunyVid.build/Objects-normal/x86_64/main.o
+t2
+s0
+
+N/Users/sosumeh/transcoderredux/PunyVid/cancel.applescript
+c000000004C36879300000000000000A4
+t1278642067
+s164
+
+N/Users/sosumeh/transcoderredux/PunyVid/clearall.applescript
+c000000004C3687940000000000000269
+t1278642068
+s617
+
+N/Users/sosumeh/transcoderredux/PunyVid/doitmulti.applescript
+c000000004CC2819C000000000000993F
+t1287815580
+s39231
+
+N/Users/sosumeh/transcoderredux/PunyVid/durfinder
+c000000004C36879300000000000002C6
+t1278642067
+s710
+
+N/Users/sosumeh/transcoderredux/PunyVid/ffmpeg
+c000000004C368794000000000095E008
+t1278642068
+s9822216
+
+N/Users/sosumeh/transcoderredux/PunyVid/fpsfinder
+c000000004C3687930000000000000562
+t1278642067
+s1378
+
+N/Users/sosumeh/transcoderredux/PunyVid/main.m
+c000000004C36879300000000000000C5
+t1278642067
+s197
+
+N/Users/sosumeh/transcoderredux/PunyVid/minus.applescript
+c000000004C36879300000000000002C3
+t1278642067
+s707
+
+N/Users/sosumeh/transcoderredux/PunyVid/movenc-r6213.diff
+c000000004C36879400000000000006FD
+t1278642068
+s1789
+
+N/Users/sosumeh/transcoderredux/PunyVid/movinfo
+c000000004C368794000000000000C670
+t1278642068
+s50800
+
+N/Users/sosumeh/transcoderredux/PunyVid/movtowav
+c000000004C368793000000000000C828
+t1278642067
+s51240
+
+N/Users/sosumeh/transcoderredux/PunyVid/movtoy4m
+c000000004C36879300000000000103FC
+t1278642067
+s66556
+
+N/Users/sosumeh/transcoderredux/PunyVid/mpgtx
+c000000004C3687930000000000044D7C
+t1278642067
+s281980
+
+N/Users/sosumeh/transcoderredux/PunyVid/openfile.applescript
+c000000004C3687930000000000000D55
+t1278642067
+s3413
+
+N/Users/sosumeh/transcoderredux/PunyVid/punyvid.icns
+c000000004A67580800000000000254FB
+t1248286728
+s152827
+
+N/Users/sosumeh/transcoderredux/PunyVid/ratiofinder
+c000000004C368794000000000000118F
+t1278642068
+s4495
+
+N/Users/sosumeh/transcoderredux/PunyVid/remainer
+c000000004C3687930000000000000458
+t1278642067
+s1112
+
+N/Users/sosumeh/transcoderredux/PunyVid/saveas.applescript
+c000000004C368794000000000000017B
+t1278642068
+s379
+
+N/Users/sosumeh/transcoderredux/PunyVid/starterror
+c000000004C3687940000000000000544
+t1278642068
+s1348
+
+N/Users/sosumeh/transcoderredux/PunyVid/tabledrop.applescript
+c000000004C3687930000000000000F87
+t1278642067
+s3975
+
+NInfo.plist
+c000000004CC27C9C0000000000000528
+t1287814300
+s1320
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies309509192#309509192#0(0"0(0#1#0"8606451008#0"0#
+
+CCompileC build/PunyVid.build/Beta/PunyVid.build/Objects-normal/i386/main.o /Users/sosumeh/transcoderredux/PunyVid/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s309506850.489688
+e309506850.591825
+r1
+xCompileC
+xbuild/PunyVid.build/Beta/PunyVid.build/Objects-normal/i386/main.o
+x/Users/sosumeh/transcoderredux/PunyVid/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@53"Compile /Users/sosumeh/transcoderredux/PunyVid/main.m309506850#309506850#0(0"0(0#0#45"/Users/sosumeh/transcoderredux/PunyVid/main.m8607445216#908"    cd /Users/sosumeh/transcoderredux/PunyVid    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -mfix-and-continue -funroll-loops -mmacosx-version-min=10.3 -gdwarf-2 -I/Users/sosumeh/transcoderredux/PunyVid/build/PunyVid.build/Beta/PunyVid.build/PunyVid.hmap -F/Users/sosumeh/transcoderredux/PunyVid/build/Beta -I/Users/sosumeh/transcoderredux/PunyVid/build/Beta/include -I/Users/sosumeh/transcoderredux/PunyVid/build/PunyVid.build/Beta/PunyVid.build/DerivedSources/i386 -I/Users/sosumeh/transcoderredux/PunyVid/build/PunyVid.build/Beta/PunyVid.build/DerivedSources -c /Users/sosumeh/transcoderredux/PunyVid/main.m -o /Users/sosumeh/transcoderredux/PunyVid/build/PunyVid.build/Beta/PunyVid.build/Objects-normal/i386/main.o0#
+
+CCompileC build/PunyVid.build/Beta/PunyVid.build/Objects-normal/ppc/main.o /Users/sosumeh/transcoderredux/PunyVid/main.m normal ppc objective-c com.apple.compilers.gcc.4_2
+s309506850.485166
+e309506850.601935
+r1
+xCompileC
+xbuild/PunyVid.build/Beta/PunyVid.build/Objects-normal/ppc/main.o
+x/Users/sosumeh/transcoderredux/PunyVid/main.m
+xnormal
+xppc
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@53"Compile /Users/sosumeh/transcoderredux/PunyVid/main.m309506850#309506850#0(0"0(0#0#45"/Users/sosumeh/transcoderredux/PunyVid/main.m8607511680#905"    cd /Users/sosumeh/transcoderredux/PunyVid    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch ppc -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -mfix-and-continue -funroll-loops -mmacosx-version-min=10.3 -gdwarf-2 -I/Users/sosumeh/transcoderredux/PunyVid/build/PunyVid.build/Beta/PunyVid.build/PunyVid.hmap -F/Users/sosumeh/transcoderredux/PunyVid/build/Beta -I/Users/sosumeh/transcoderredux/PunyVid/build/Beta/include -I/Users/sosumeh/transcoderredux/PunyVid/build/PunyVid.build/Beta/PunyVid.build/DerivedSources/ppc -I/Users/sosumeh/transcoderredux/PunyVid/build/PunyVid.build/Beta/PunyVid.build/DerivedSources -c /Users/sosumeh/transcoderredux/PunyVid/main.m -o /Users/sosumeh/transcoderredux/PunyVid/build/PunyVid.build/Beta/PunyVid.build/Objects-normal/ppc/main.o0#
+
+CCompileC build/PunyVid.build/Beta/PunyVid.build/Objects-normal/x86_64/main.o /Users/sosumeh/transcoderredux/PunyVid/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCopyStringsFile /Users/sosumeh/transcoderredux/PunyVid/build/Beta/PunyVid.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+s309506849.352156
+e309506849.427406
+r1
+xCopyStringsFile
+x/Users/sosumeh/transcoderredux/PunyVid/build/Beta/PunyVid.app/Contents/Resources/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+lSLF07#2@36"Copy English.lproj/InfoPlist.strings309506849#309506849#0(0"0(0#0#70"/Users/sosumeh/transcoderredux/PunyVid/English.lproj/InfoPlist.strings8606711616#365"    cd /Users/sosumeh/transcoderredux/PunyVid    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-16 --outputencoding UTF-16 English.lproj/InfoPlist.strings --outdir /Users/sosumeh/transcoderredux/PunyVid/build/Beta/PunyVid.app/Contents/Resources/English.lproj0#
+
+CCopyStringsFile /Users/sosumeh/transcoderredux/PunyVid/build/Beta/PunyVid.app/Contents/Resources/English.lproj/Localizable.strings English.lproj/Localizable.strings
+s309506849.476048
+e309506849.952425
+r1
+xCopyStringsFile
+x/Users/sosumeh/transcoderredux/PunyVid/build/Beta/PunyVid.app/Contents/Resources/English.lproj/Localizable.strings
+xEnglish.lproj/Localizable.strings
+lSLF07#2@38"Copy English.lproj/Localizable.strings309506849#309506849#0(0"0(0#0#72"/Users/sosumeh/transcoderredux/PunyVid/English.lproj/Localizable.strings8604488128#370"    cd /Users/sosumeh/transcoderredux/PunyVid    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding macintosh --outputencoding UTF-16 English.lproj/Localizable.strings --outdir /Users/sosumeh/transcoderredux/PunyVid/build/Beta/PunyVid.app/Contents/Resources/English.lproj0#
+
+CCpResource build/Beta/PunyVid.app/Contents/Resources/COPYING.txt COPYING.txt
+s309506850.086271
+e309506850.097404
+r1
+xCpResource
+xbuild/Beta/PunyVid.app/Contents/Resources/COPYING.txt
+xCOPYING.txt
+lSLF07#2@16"Copy COPYING.txt309506850#309506850#0(0"0(0#0#50"/Users/sosumeh/transcoderredux/PunyVid/COPYING.txt8603643200#326"    cd /Users/sosumeh/transcoderredux/PunyVid    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/sosumeh/transcoderredux/PunyVid/COPYING.txt /Users/sosumeh/transcoderredux/PunyVid/build/Beta/PunyVid.app/Contents/Resources0#
+
+CCpResource build/Beta/PunyVid.app/Contents/Resources/Credits.rtfd Credits.rtfd
+s309507161.260949
+e309507161.311937
+r1
+xCpResource
+xbuild/Beta/PunyVid.app/Contents/Resources/Credits.rtfd
+xCredits.rtfd
+lSLF07#2@17"Copy Credits.rtfd309507161#309507161#0(0"0(0#0#51"/Users/sosumeh/transcoderredux/PunyVid/Credits.rtfd8607949344#327"    cd /Users/sosumeh/transcoderredux/PunyVid    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/sosumeh/transcoderredux/PunyVid/Credits.rtfd /Users/sosumeh/transcoderredux/PunyVid/build/Beta/PunyVid.app/Contents/Resources0#
+
+CCpResource build/Beta/PunyVid.app/Contents/Resources/PunyVidBETAVersion.icns PunyVidBETAVersion.icns
+s309506850.093843
+e309506850.266728
+r1
+xCpResource
+xbuild/Beta/PunyVid.app/Contents/Resources/PunyVidBETAVersion.icns
+xPunyVidBETAVersion.icns
+lSLF07#2@28"Copy PunyVidBETAVersion.icns309506850#309506850#0(0"0(0#0#62"/Users/sosumeh/transcoderredux/PunyVid/PunyVidBETAVersion.icns8600025344#338"    cd /Users/sosumeh/transcoderredux/PunyVid    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/sosumeh/transcoderredux/PunyVid/PunyVidBETAVersion.icns /Users/sosumeh/transcoderredux/PunyVid/build/Beta/PunyVid.app/Contents/Resources0#
+
+CCpResource build/Beta/PunyVid.app/Contents/Resources/durfinder durfinder
+s309506849.428605
+e309506849.475827
+r1
+xCpResource
+xbuild/Beta/PunyVid.app/Contents/Resources/durfinder
+xdurfinder
+lSLF07#2@14"Copy durfinder309506849#309506849#0(0"0(0#0#48"/Users/sosumeh/transcoderredux/PunyVid/durfinder8606312640#324"    cd /Users/sosumeh/transcoderredux/PunyVid    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/sosumeh/transcoderredux/PunyVid/durfinder /Users/sosumeh/transcoderredux/PunyVid/build/Beta/PunyVid.app/Contents/Resources0#
+
+CCpResource build/Beta/PunyVid.app/Contents/Resources/ffmpeg ffmpeg
+s309506849.427523
+e309506850.079753
+r1
+xCpResource
+xbuild/Beta/PunyVid.app/Contents/Resources/ffmpeg
+xffmpeg
+lSLF07#2@11"Copy ffmpeg309506849#309506850#0(0"0(0#0#45"/Users/sosumeh/transcoderredux/PunyVid/ffmpeg8606423488#321"    cd /Users/sosumeh/transcoderredux/PunyVid    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/sosumeh/transcoderredux/PunyVid/ffmpeg /Users/sosumeh/transcoderredux/PunyVid/build/Beta/PunyVid.app/Contents/Resources0#
+
+CCpResource build/Beta/PunyVid.app/Contents/Resources/fpsfinder fpsfinder
+s309506849.435662
+e309506849.520470
+r1
+xCpResource
+xbuild/Beta/PunyVid.app/Contents/Resources/fpsfinder
+xfpsfinder
+lSLF07#2@14"Copy fpsfinder309506849#309506849#0(0"0(0#0#48"/Users/sosumeh/transcoderredux/PunyVid/fpsfinder8606197024#324"    cd /Users/sosumeh/transcoderredux/PunyVid    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/sosumeh/transcoderredux/PunyVid/fpsfinder /Users/sosumeh/transcoderredux/PunyVid/build/Beta/PunyVid.app/Contents/Resources0#
+
+CCpResource build/Beta/PunyVid.app/Contents/Resources/movenc-r6213.diff movenc-r6213.diff
+s309506850.088618
+e309506850.205236
+r1
+xCpResource
+xbuild/Beta/PunyVid.app/Contents/Resources/movenc-r6213.diff
+xmovenc-r6213.diff
+lSLF07#2@22"Copy movenc-r6213.diff309506850#309506850#0(0"0(0#0#56"/Users/sosumeh/transcoderredux/PunyVid/movenc-r6213.diff8603082624#332"    cd /Users/sosumeh/transcoderredux/PunyVid    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/sosumeh/transcoderredux/PunyVid/movenc-r6213.diff /Users/sosumeh/transcoderredux/PunyVid/build/Beta/PunyVid.app/Contents/Resources0#
+
+CCpResource build/Beta/PunyVid.app/Contents/Resources/movinfo movinfo
+s309506849.471115
+e309506849.523124
+r1
+xCpResource
+xbuild/Beta/PunyVid.app/Contents/Resources/movinfo
+xmovinfo
+lSLF07#2@12"Copy movinfo309506849#309506849#0(0"0(0#0#46"/Users/sosumeh/transcoderredux/PunyVid/movinfo8606415552#322"    cd /Users/sosumeh/transcoderredux/PunyVid    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/sosumeh/transcoderredux/PunyVid/movinfo /Users/sosumeh/transcoderredux/PunyVid/build/Beta/PunyVid.app/Contents/Resources0#
+
+CCpResource build/Beta/PunyVid.app/Contents/Resources/movtowav movtowav
+s309506850.079890
+e309506850.204556
+r1
+xCpResource
+xbuild/Beta/PunyVid.app/Contents/Resources/movtowav
+xmovtowav
+lSLF07#2@13"Copy movtowav309506850#309506850#0(0"0(0#0#47"/Users/sosumeh/transcoderredux/PunyVid/movtowav8605811904#323"    cd /Users/sosumeh/transcoderredux/PunyVid    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/sosumeh/transcoderredux/PunyVid/movtowav /Users/sosumeh/transcoderredux/PunyVid/build/Beta/PunyVid.app/Contents/Resources0#
+
+CCpResource build/Beta/PunyVid.app/Contents/Resources/movtoy4m movtoy4m
+s309506849.459016
+e309506849.677538
+r1
+xCpResource
+xbuild/Beta/PunyVid.app/Contents/Resources/movtoy4m
+xmovtoy4m
+lSLF07#2@13"Copy movtoy4m309506849#309506849#0(0"0(0#0#47"/Users/sosumeh/transcoderredux/PunyVid/movtoy4m8607307840#323"    cd /Users/sosumeh/transcoderredux/PunyVid    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/sosumeh/transcoderredux/PunyVid/movtoy4m /Users/sosumeh/transcoderredux/PunyVid/build/Beta/PunyVid.app/Contents/Resources0#
+
+CCpResource build/Beta/PunyVid.app/Contents/Resources/mpgtx mpgtx
+s309506849.473081
+e309506849.935656
+r1
+xCpResource
+xbuild/Beta/PunyVid.app/Contents/Resources/mpgtx
+xmpgtx
+lSLF07#2@10"Copy mpgtx309506849#309506849#0(0"0(0#0#44"/Users/sosumeh/transcoderredux/PunyVid/mpgtx8606910144#320"    cd /Users/sosumeh/transcoderredux/PunyVid    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/sosumeh/transcoderredux/PunyVid/mpgtx /Users/sosumeh/transcoderredux/PunyVid/build/Beta/PunyVid.app/Contents/Resources0#
+
+CCpResource build/Beta/PunyVid.app/Contents/Resources/punyvid.icns punyvid.icns
+s309506850.091903
+e309506850.259911
+r1
+xCpResource
+xbuild/Beta/PunyVid.app/Contents/Resources/punyvid.icns
+xpunyvid.icns
+lSLF07#2@17"Copy punyvid.icns309506850#309506850#0(0"0(0#0#51"/Users/sosumeh/transcoderredux/PunyVid/punyvid.icns8601084512#327"    cd /Users/sosumeh/transcoderredux/PunyVid    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/sosumeh/transcoderredux/PunyVid/punyvid.icns /Users/sosumeh/transcoderredux/PunyVid/build/Beta/PunyVid.app/Contents/Resources0#
+
+CCpResource build/Beta/PunyVid.app/Contents/Resources/ratiofinder ratiofinder
+s309506849.441233
+e309506849.492077
+r1
+xCpResource
+xbuild/Beta/PunyVid.app/Contents/Resources/ratiofinder
+xratiofinder
+lSLF07#2@16"Copy ratiofinder309506849#309506849#0(0"0(0#0#50"/Users/sosumeh/transcoderredux/PunyVid/ratiofinder8604230912#326"    cd /Users/sosumeh/transcoderredux/PunyVid    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/sosumeh/transcoderredux/PunyVid/ratiofinder /Users/sosumeh/transcoderredux/PunyVid/build/Beta/PunyVid.app/Contents/Resources0#
+
+CCpResource build/Beta/PunyVid.app/Contents/Resources/remainer remainer
+s309506849.437651
+e309506849.475970
+r1
+xCpResource
+xbuild/Beta/PunyVid.app/Contents/Resources/remainer
+xremainer
+lSLF07#2@13"Copy remainer309506849#309506849#0(0"0(0#0#47"/Users/sosumeh/transcoderredux/PunyVid/remainer8605979936#323"    cd /Users/sosumeh/transcoderredux/PunyVid    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/sosumeh/transcoderredux/PunyVid/remainer /Users/sosumeh/transcoderredux/PunyVid/build/Beta/PunyVid.app/Contents/Resources0#
+
+CCpResource build/Beta/PunyVid.app/Contents/Resources/starterror starterror
+s309506849.432803
+e309506849.514320
+r1
+xCpResource
+xbuild/Beta/PunyVid.app/Contents/Resources/starterror
+xstarterror
+lSLF07#2@15"Copy starterror309506849#309506849#0(0"0(0#0#49"/Users/sosumeh/transcoderredux/PunyVid/starterror8606242208#325"    cd /Users/sosumeh/transcoderredux/PunyVid    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/sosumeh/transcoderredux/PunyVid/starterror /Users/sosumeh/transcoderredux/PunyVid/build/Beta/PunyVid.app/Contents/Resources0#
+
+CCreateUniversalBinary /Users/sosumeh/transcoderredux/PunyVid/build/Beta/PunyVid.app/Contents/MacOS/PunyVid normal "i386 ppc"
+s309509192.590897
+e309509192.664032
+r1
+xCreateUniversalBinary
+x/Users/sosumeh/transcoderredux/PunyVid/build/Beta/PunyVid.app/Contents/MacOS/PunyVid
+xnormal
+xi386 ppc
+lSLF07#2@85"CreateUniversalBinary build/Beta/PunyVid.app/Contents/MacOS/PunyVid normal "i386 ppc"309509192#309509192#0(0"0(0#0#47"/Users/sosumeh/transcoderredux/PunyVid/i386 ppc8616988640#376"    cd /Users/sosumeh/transcoderredux/PunyVid    /usr/bin/lipo -create /Users/sosumeh/transcoderredux/PunyVid/build/PunyVid.build/Beta/PunyVid.build/Objects-normal/i386/PunyVid /Users/sosumeh/transcoderredux/PunyVid/build/PunyVid.build/Beta/PunyVid.build/Objects-normal/ppc/PunyVid -output /Users/sosumeh/transcoderredux/PunyVid/build/Beta/PunyVid.app/Contents/MacOS/PunyVid0#
+
+CCreateUniversalBinary /Users/sosumeh/transcoderredux/PunyVid/build/Beta/PunyVid.app/Contents/MacOS/PunyVid normal "ppc i386"
+s309506850.756533
+e309506850.767442
+r1
+xCreateUniversalBinary
+x/Users/sosumeh/transcoderredux/PunyVid/build/Beta/PunyVid.app/Contents/MacOS/PunyVid
+xnormal
+xppc i386
+lSLF07#2@85"CreateUniversalBinary build/Beta/PunyVid.app/Contents/MacOS/PunyVid normal "ppc i386"309506850#309506850#0(0"0(0#0#47"/Users/sosumeh/transcoderredux/PunyVid/ppc i3868607454752#376"    cd /Users/sosumeh/transcoderredux/PunyVid    /usr/bin/lipo -create /Users/sosumeh/transcoderredux/PunyVid/build/PunyVid.build/Beta/PunyVid.build/Objects-normal/ppc/PunyVid /Users/sosumeh/transcoderredux/PunyVid/build/PunyVid.build/Beta/PunyVid.build/Objects-normal/i386/PunyVid -output /Users/sosumeh/transcoderredux/PunyVid/build/Beta/PunyVid.app/Contents/MacOS/PunyVid0#
+
+CCreateUniversalBinary /Users/sosumeh/transcoderredux/PunyVid/build/Beta/PunyVid.app/Contents/MacOS/PunyVid normal "x86_64 i386 ppc"
+r0
+
+CLd /Users/sosumeh/transcoderredux/PunyVid/build/PunyVid.build/Beta/PunyVid.build/Objects-normal/i386/PunyVid normal i386
+s309506850.591937
+e309506850.734333
+r1
+xLd
+x/Users/sosumeh/transcoderredux/PunyVid/build/PunyVid.build/Beta/PunyVid.build/Objects-normal/i386/PunyVid
+xnormal
+xi386
+lSLF07#2@110"Link /Users/sosumeh/transcoderredux/PunyVid/build/PunyVid.build/Beta/PunyVid.build/Objects-normal/i386/PunyVid309506850#309506850#0(0"0(0#0#0"8607335712#581"    cd /Users/sosumeh/transcoderredux/PunyVid    setenv MACOSX_DEPLOYMENT_TARGET 10.3    /Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/SDKs/MacOSX10.5.sdk -L/Users/sosumeh/transcoderredux/PunyVid/build/Beta -F/Users/sosumeh/transcoderredux/PunyVid/build/Beta -filelist /Users/sosumeh/transcoderredux/PunyVid/build/PunyVid.build/Beta/PunyVid.build/Objects-normal/i386/PunyVid.LinkFileList -mmacosx-version-min=10.3 -framework Cocoa -framework AppleScriptKit -o /Users/sosumeh/transcoderredux/PunyVid/build/PunyVid.build/Beta/PunyVid.build/Objects-normal/i386/PunyVid0#
+
+CLd /Users/sosumeh/transcoderredux/PunyVid/build/PunyVid.build/Beta/PunyVid.build/Objects-normal/ppc/PunyVid normal ppc
+s309506850.602040
+e309506850.756421
+r1
+xLd
+x/Users/sosumeh/transcoderredux/PunyVid/build/PunyVid.build/Beta/PunyVid.build/Objects-normal/ppc/PunyVid
+xnormal
+xppc
+lSLF07#2@109"Link /Users/sosumeh/transcoderredux/PunyVid/build/PunyVid.build/Beta/PunyVid.build/Objects-normal/ppc/PunyVid309506850#309506850#0(0"0(0#0#0"8607300864#578"    cd /Users/sosumeh/transcoderredux/PunyVid    setenv MACOSX_DEPLOYMENT_TARGET 10.3    /Developer/usr/bin/gcc-4.2 -arch ppc -isysroot /Developer/SDKs/MacOSX10.5.sdk -L/Users/sosumeh/transcoderredux/PunyVid/build/Beta -F/Users/sosumeh/transcoderredux/PunyVid/build/Beta -filelist /Users/sosumeh/transcoderredux/PunyVid/build/PunyVid.build/Beta/PunyVid.build/Objects-normal/ppc/PunyVid.LinkFileList -mmacosx-version-min=10.3 -framework Cocoa -framework AppleScriptKit -o /Users/sosumeh/transcoderredux/PunyVid/build/PunyVid.build/Beta/PunyVid.build/Objects-normal/ppc/PunyVid0#
+
+CLd /Users/sosumeh/transcoderredux/PunyVid/build/PunyVid.build/Beta/PunyVid.build/Objects-normal/x86_64/PunyVid normal x86_64
+r0
+
+COSACompile build/Beta/PunyVid.app/Contents/Resources/Scripts/advanceder.scpt advanceder.applescript
+r0
+
+COSACompile build/Beta/PunyVid.app/Contents/Resources/Scripts/cancel.scpt cancel.applescript
+r0
+
+COSACompile build/Beta/PunyVid.app/Contents/Resources/Scripts/clearall.scpt clearall.applescript
+r0
+
+COSACompile build/Beta/PunyVid.app/Contents/Resources/Scripts/doitmulti.scpt doitmulti.applescript
+s309509192.379366
+e309509192.586069
+r0
+xOSACompile
+xbuild/Beta/PunyVid.app/Contents/Resources/Scripts/doitmulti.scpt
+xdoitmulti.applescript
+o/Users/sosumeh/transcoderredux/PunyVid/doitmulti.applescript:499: error: Expected end of line, etc. but found number. (-2741)
+lSLF07#2@29"Compile doitmulti.applescript309509192#309509192#0(178"/Users/sosumeh/transcoderredux/PunyVid/doitmulti.applescript:499: error: Expected end of line, etc. but found number. (-2741)Command /usr/bin/osacompile failed with exit code 11(4@51"Command /usr/bin/osacompile failed with exit code 1309509192#18446744073709551615#0#0(1@0"0(0#0#60"/Users/sosumeh/transcoderredux/PunyVid/doitmulti.applescript8610858624#336"    cd /Users/sosumeh/transcoderredux/PunyVid    /usr/bin/osacompile -d -i /System/Library/Frameworks/AppleScriptKit.framework -l AppleScript -U doitmulti.applescript -o /Users/sosumeh/transcoderredux/PunyVid/build/Beta/PunyVid.app/Contents/Resources/Scripts/doitmulti.scpt /Users/sosumeh/transcoderredux/PunyVid/doitmulti.applescript1#
+
+COSACompile build/Beta/PunyVid.app/Contents/Resources/Scripts/minus.scpt minus.applescript
+r0
+
+COSACompile build/Beta/PunyVid.app/Contents/Resources/Scripts/openfile.scpt openfile.applescript
+r0
+
+COSACompile build/Beta/PunyVid.app/Contents/Resources/Scripts/saveas.scpt saveas.applescript
+r0
+
+COSACompile build/Beta/PunyVid.app/Contents/Resources/Scripts/tabledrop.scpt tabledrop.applescript
+r0
+
+CProcessInfoPlistFile /Users/sosumeh/transcoderredux/PunyVid/build/Beta/PunyVid.app/Contents/Info.plist Info.plist
+s309507101.712420
+e309507101.719210
+r1
+xProcessInfoPlistFile
+x/Users/sosumeh/transcoderredux/PunyVid/build/Beta/PunyVid.app/Contents/Info.plist
+xInfo.plist
+lSLF07#2@18"Process Info.plist309507101#309507101#0(0"0(0#0#49"/Users/sosumeh/transcoderredux/PunyVid/Info.plist8612090528#300"    cd /Users/sosumeh/transcoderredux/PunyVid    builtin-infoPlistUtility Info.plist -genpkginfo /Users/sosumeh/transcoderredux/PunyVid/build/Beta/PunyVid.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Users/sosumeh/transcoderredux/PunyVid/build/Beta/PunyVid.app/Contents/Info.plist0#
+
+CStripNIB /Users/sosumeh/transcoderredux/PunyVid/English.lproj/MainMenu.nib
+s309508870.639747
+e309508872.053614
+r1
+xStripNIB
+x/Users/sosumeh/transcoderredux/PunyVid/English.lproj/MainMenu.nib
+lSLF07#2@35"StripNIB English.lproj/MainMenu.nib309508870#309508872#0(0"0(0#0#65"/Users/sosumeh/transcoderredux/PunyVid/English.lproj/MainMenu.nib8615991264#294"    cd /Users/sosumeh/transcoderredux/PunyVid    /Developer/usr/bin/ibtool --strip /Users/sosumeh/transcoderredux/PunyVid/build/Beta/PunyVid.app/Contents/Resources/English.lproj/MainMenu.nib --output-format human-readable-text /Users/sosumeh/transcoderredux/PunyVid/English.lproj/MainMenu.nib0#
+
+CTouch /Users/sosumeh/transcoderredux/PunyVid/build/Beta/PunyVid.app
+s309507916.292869
+e309507916.320218
+r1
+xTouch
+x/Users/sosumeh/transcoderredux/PunyVid/build/Beta/PunyVid.app
+lSLF07#2@67"Touch /Users/sosumeh/transcoderredux/PunyVid/build/Beta/PunyVid.app309507916#309507916#0(0"0(0#0#0"8606353696#130"    cd /Users/sosumeh/transcoderredux/PunyVid    /usr/bin/touch -c /Users/sosumeh/transcoderredux/PunyVid/build/Beta/PunyVid.app0#
+
